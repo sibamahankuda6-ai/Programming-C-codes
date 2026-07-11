@@ -1,4 +1,5 @@
-#include<stdio.h>// check character is upper case or not
+// check character is upper case or not
+#include<stdio.h>
 int main()
 {
     char a;
