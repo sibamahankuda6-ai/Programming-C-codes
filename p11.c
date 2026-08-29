@@ -7,6 +7,5 @@ int main()
     scanf("%f",&celsius);
     fahrenheit=9/5*celsius+32;
     printf("the fahrenheit value is:%f",fahrenheit);
-
     return 0;
 }
