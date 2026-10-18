@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+    
     int length,width,area;
     printf("enter length and width of rectangle:");
     scanf("%d %d",&length,&width);
