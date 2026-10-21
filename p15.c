@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+    
     int a,square;
     printf("enter a number");
     scanf("%d",&a);
